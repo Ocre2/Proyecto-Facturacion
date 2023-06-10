@@ -1,0 +1,5 @@
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\SistemaFacturacionApp.csproj.AssemblyReference.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\SistemaFacturacionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\SistemaFacturacionApp.AssemblyInfoInputs.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\SistemaFacturacionApp.AssemblyInfo.cs
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\SistemaFacturacionApp.csproj.CoreCompileInputs.cache

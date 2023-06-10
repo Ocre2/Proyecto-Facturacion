@@ -1,0 +1,15 @@
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\bin\Debug\net7.0\AppConsola.exe
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\bin\Debug\net7.0\AppConsola.deps.json
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\bin\Debug\net7.0\AppConsola.runtimeconfig.json
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\bin\Debug\net7.0\AppConsola.dll
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\bin\Debug\net7.0\AppConsola.pdb
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.csproj.AssemblyReference.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.AssemblyInfoInputs.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.AssemblyInfo.cs
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.dll
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\refint\AppConsola.dll
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.pdb
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\AppConsola.genruntimeconfig.cache
+C:\Users\CORE I5\Desktop\Luis Echeverri\C#\Herencia\AppConsola\obj\Debug\net7.0\ref\AppConsola.dll
